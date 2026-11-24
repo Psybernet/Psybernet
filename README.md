@@ -35,12 +35,23 @@
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
-### Featured project
+### Featured projects
 
 **[WhichAlt](https://github.com/Psybernet/WhichAlt)**: a World of Warcraft addon that tells you which class, spec and alt a piece of gear suits.
 - About 4,000 lines of Lua, with stat data kept in readable tables.
 - Python tools that pull trinket rankings from Icy Veins and redraw the reference charts.
 - Releases built and published automatically by a **GitHub Actions** pipeline, which checks the version tag matches the addon before publishing.
+
+**[DateFix](https://github.com/Psybernet/DateFix)**: a Windows app that rewrites the dates in file names as YYYY-MM-DD, so files sort properly.
+- **Rust** core shared by a **Tauri** desktop app with a Windows Mica glass interface and a command-line tool.
+- Drag and drop, a live preview, tick boxes to skip files, and undo that survives a restart.
+- CI on Windows and Linux (formatting, tests, Clippy); version tags build and publish the installer automatically.
+
+**[Emoji Mandala](https://github.com/Psybernet/EmojiMandala)** · [▶ try it live](https://psybernet.github.io/EmojiMandala/): emoji drawn with rotational symmetry, building up into a mandala.
+- A 2014 experiment of mine, rebuilt for today's browsers in a single HTML file with no libraries.
+- Hosted on **GitHub Pages**, with the original version kept alongside.
+
+<a href="https://psybernet.github.io/EmojiMandala/"><img src="https://raw.githubusercontent.com/Psybernet/EmojiMandala/main/preview.jpg" alt="Emoji Mandala" width="100%"></a>
 
 ### Currently building
 
