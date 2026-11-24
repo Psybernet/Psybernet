@@ -43,7 +43,6 @@
 
 - 💬 **A chat and file-sharing app** (in progress)
 - 🌡️ **thermo** (coming soon)
-- 🧩 More [WoW addons](https://github.com/Psybernet/wow_addons)
 
 ### GitHub stats
 
