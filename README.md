@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Martin 👋</h1>
-<h3 align="center">DevOps engineer · Systems & network admin · Builder of useful tools</h3>
+<h3 align="center">DevOps · Cybersecurity · Systems & network admin</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20work-DevOps-2ea44f?style=for-the-badge" alt="Open to work: DevOps">
+  <img src="https://img.shields.io/badge/Open%20to%20work-Cybersecurity-2ea44f?style=for-the-badge" alt="Open to work: Cybersecurity">
+  <img src="https://img.shields.io/badge/Open%20to%20work-Systems%20%26%20Network%20Admin-2ea44f?style=for-the-badge" alt="Open to work: Systems and Network Admin">
 </p>
 
 ---
@@ -11,10 +13,10 @@
 
 - 🖥️ **Systems and network administrator** at four software development companies, keeping servers, networks and the people who depend on them running.
 - 🛠️ Set up and maintained the **development environments** those teams built in, covering servers, tooling, access and everything else developers need in order to ship.
-- ⚙️ Now focused on **DevOps**: automation, CI/CD pipelines and infrastructure that looks after itself.
+- ⚙️ Now focused on **DevOps** and **cybersecurity**: automation, CI/CD pipelines, and infrastructure that is secure and looks after itself.
 - 🤖 I pair **old-school programming knowledge** with modern **AI-assisted development** (Claude Code) to ship working tools quickly.
 - 🔒 Interested in privacy-focused software, Windows performance tuning and AI.
-- 🔭 **Open to DevOps roles.** Happy to chat.
+- 🔭 **Open to DevOps, cybersecurity, and systems & network admin roles.** Happy to chat.
 
 ### Tech I work with
 
