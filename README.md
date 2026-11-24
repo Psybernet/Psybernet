@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/Open%20to%20work-DevOps-2ea44f?style=for-the-badge" alt="Open to work: DevOps">
   <img src="https://img.shields.io/badge/Open%20to%20work-Cybersecurity-2ea44f?style=for-the-badge" alt="Open to work: Cybersecurity">
   <img src="https://img.shields.io/badge/Open%20to%20work-Systems%20%26%20Network%20Admin-2ea44f?style=for-the-badge" alt="Open to work: Systems and Network Admin">
+  <img src="https://img.shields.io/badge/Open%20to%20work-AI--Assisted%20Developer-2ea44f?style=for-the-badge" alt="Open to work: AI-Assisted Developer">
 </p>
 
 ---
@@ -16,7 +17,7 @@
 - ⚙️ Now focused on **DevOps** and **cybersecurity**: automation, CI/CD pipelines, and infrastructure that is secure and looks after itself.
 - 🤖 I pair **old-school programming knowledge** with modern **AI-assisted development** (Claude Code) to ship working tools quickly.
 - 🔒 Interested in privacy-focused software, Windows performance tuning and AI.
-- 🔭 **Open to DevOps, cybersecurity, and systems & network admin roles.** Happy to chat.
+- 🔭 **Open to DevOps, cybersecurity, systems & network admin, and AI-assisted development roles.** Happy to chat.
 
 ### Tech I work with
 
